@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2vw;
+}
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vw;
+}
+
+.grid-square {
+    background-color: aquamarine;
+}
+
+.hover {
+    background-color: crimson;
+}
